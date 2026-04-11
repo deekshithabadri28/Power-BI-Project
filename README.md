@@ -12,7 +12,7 @@ The analysis provides insights such as:
 
 The project involves data cleaning, transformation, and DAX-based calculations to build meaningful and interactive visualizations. These dashboards help in making data-driven decisions for studios, investors, and streaming platforms. 
 
-- Tools & Technologies Used:
+-> Tools & Technologies Used:
 
 * **Power BI** – Dashboard creation and data visualization
 * **Power Query** – Data cleaning and transformation
