@@ -1,5 +1,5 @@
 # Power BI Project
-# Movie Sales Analysis
+Movie Sales Analysis
 
 This project focuses on analyzing movie performance data to understand the key factors that drive box office success. Using an IMDb dataset, an interactive Power BI dashboard was developed to explore trends in revenue, ratings, genres, and audience engagement. 
 
@@ -20,3 +20,8 @@ The project involves data cleaning, transformation, and DAX-based calculations t
 * **CSV Dataset (IMDb Movie Data)** – Source data
 
 This project demonstrates how raw data can be transformed into actionable insights using Power BI.
+
+# Certifications 
+
+[Power BI Gold Certification]
+(Power_BI_Gold_Certification.pdf)
